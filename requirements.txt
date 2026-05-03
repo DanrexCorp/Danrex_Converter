@@ -1,0 +1,11 @@
+Pillow>=10.0.0
+opencv-python>=4.8.0
+pydub>=0.25.1
+moviepy>=1.0.3
+reportlab>=4.0.0
+py7zr>=0.20.0
+trimesh>=3.23.0
+fonttools>=4.43.0
+openpyxl>=3.1.0
+pysubs2>=1.6.0
+numpy>=1.24.0
